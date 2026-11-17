@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+scipy
+statsmodels
+arch
+matplotlib
+seaborn
+streamlit>=1.37
